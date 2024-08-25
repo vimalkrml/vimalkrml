@@ -7,7 +7,7 @@ I'm a passionate Front-end Developer with over two years of experience in buildi
 My portfolio - https://vimalkr.netlify.app/
 
 - 🔭 I work as a Product Engineer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
-- 🌱 I’m currently learning: React Native, Expo, and advanced DSA concepts.
+- 🌱 You can find me listening to music when I am not developing code.
 - 👯 I’m looking to collaborate on: Open source projects and front-end development tasks.
 - 💬 Ask me about: Front-end development, QA automation, and building scalable web apps.
 
