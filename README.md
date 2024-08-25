@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Vimal!
 
-<!--
-**vimalkrml/vimalkrml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Front-end Developer with over two years of experience in building and maintaining responsive web applications. My expertise lies in HTML, Tailwind CSS, Vue.js, and Cypress. I’m currently diving deeper into full stack development with a focus on Vue, React, Node.js, and Data Structures and Algorithms (DSA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My portfolio - https://vimalkr.netlify.app/
+
+- 🔭 I work as a Product Engineer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
+- 🌱 I’m currently learning: React Native, Expo, and advanced DSA concepts.
+- 👯 I’m looking to collaborate on: Open source projects and front-end development tasks.
+- 💬 Ask me about: Front-end development, QA automation, and building scalable web apps.
+
+## 🛠️ Skills
+
+### Front-end Development:
+- HTML, CSS, Tailwind CSS, JavaScript
+- Vue.js, React.js, React Native
+- Cypress
+
+### Back-end Development:
+- Node.js, Express.js (Learning Phase)
