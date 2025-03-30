@@ -6,6 +6,12 @@ I'm a passionate Front-end Developer with over two years of experience in buildi
 
 My portfolio - https://vimalkr.netlify.app/
 
+My Sample Works :
+1. https://tailwind-made.netlify.app/
+2. https://braincert.netlify.app/
+3. https://testdashtile.netlify.app/
+4. https://ditchdollar.netlify.app/
+
 - 🔭 I work as a Product Engineer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
 - 🌱 You can find me listening to music when I am not developing code.
 - 👯 I’m looking to collaborate on: Open source projects and front-end development tasks.
