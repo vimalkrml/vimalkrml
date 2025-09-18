@@ -20,9 +20,9 @@ My Sample Works :
 ## 🛠️ Skills
 
 ### Front-end Development:
-- HTML, CSS, Tailwind CSS, JavaScript
-- Vue.js, React.js, React Native
+- HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
+- Vue.js, React.js
 - Cypress
 
 ### Back-end Development:
-- Node.js, Express.js (Learning Phase)
+- Node.js, Express.js 
