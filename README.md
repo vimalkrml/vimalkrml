@@ -6,7 +6,7 @@ I'm a passionate Front-end Developer with over two years of experience in buildi
 
 My portfolio - https://vimalkr.netlify.app/
 
-My Sample Works :
+My Basic Sample Works :
 1. https://tailwind-made.netlify.app/
 2. https://braincert.netlify.app/
 3. https://testdashtile.netlify.app/
