@@ -17,12 +17,19 @@ My Basic Sample Works :
 - 👯 I’m looking to collaborate on: Open source projects and front-end development tasks.
 - 💬 Ask me about: Front-end development, QA automation, and building scalable web apps.
 
-## 🛠️ Skills
+🛠️ Technical Skills
 
-### Front-end Development:
-- HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
+- Front-End Development
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
+- JavaScript (ES6+)
 - Vue.js, React.js
-- Cypress
+- Cypress (End-to-End Testing)
 
-### Back-end Development:
-- Node.js, Express.js 
+Back-End Development
+- Node.js, Express.js
+- RESTful API Development
+
+Cloud & Database
+- AWS S3 (File Storage & Management)
+- MySQL (Relational Database) 
