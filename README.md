@@ -15,23 +15,14 @@ My Basic Sample Works :
 4. https://ditchdollar.netlify.app/
 
 - 🔭 I work as a Product Engineer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
-- 🌱 You can find me listening to music when I am not developing code.
-- 👯 I’m looking to collaborate on: Open source projects and front-end development tasks.
-- 💬 Ask me about: Front-end development, QA automation, and building scalable web apps.
+- 🌱 Constantly learning and building with modern front-end and full-stack technologies.
+- 👯 Looking to collaborate on open-source projects, UI-heavy applications, and scalable dashboards.
+- 💬 Front-end development, Cypress E2E testing, performance optimization, and RESTful APIs.
 
-🛠️ Technical Skills
-
-- Front-End Development
-- HTML5, CSS3
-- Tailwind CSS, Bootstrap
-- JavaScript (ES6+)
+🛠️ Tech Stack
+- HTML, CSS, JavaScript (ES6+)
 - Vue.js, React.js
-- Cypress (End-to-End Testing)
-
-Back-End Development
-- Node.js, Express.js
-- RESTful API Development
-
-Cloud & Database
-- AWS S3 (File Storage & Management)
-- MySQL (Relational Database) 
+- Tailwind, Bootstrap
+- Node.js, Express
+- MySQL, AWS S3
+- Cypress
