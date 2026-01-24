@@ -18,6 +18,7 @@ My Basic Sample Works :
 - 🌱 Constantly learning and building with modern front-end and full-stack technologies.
 - 👯 Looking to collaborate on open-source projects, UI-heavy applications, and scalable dashboards.
 - 💬 Front-end development, Cypress E2E testing, performance optimization, and RESTful APIs.
+  
 
 🛠️ Tech Stack
 - HTML, CSS, JavaScript (ES6+)
