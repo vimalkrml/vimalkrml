@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-I am a Front-End Developer with over two years of experience in building responsive and scalable web applications using HTML5, CSS3, Tailwind CSS, Bootstrap, and modern JavaScript (ES6+). I have hands-on experience developing user interfaces with Vue.js and React.js, along with implementing reliable end-to-end testing using Cypress.
-Currently, I am working on a full-stack application featuring a robust dashboard with 10+ functional modules, gaining practical experience across both frontend and backend development. In addition to front-end work, I build RESTful APIs using Node.js and Express.js and integrate backend services efficiently. I also have experience managing cloud-based file storage with AWS S3 and working with MySQL for structured data management.
-I continuously enhance my full-stack skill set with a strong focus on clean code, performance optimization, scalability, and user-centric design.
+Currently, I’m working on a full-stack dashboard application with 10+ functional modules, where I build intuitive, responsive interfaces and collaborate closely with backend services. This experience has helped me understand how real-world products are structured end-to-end, improve performance, and deliver features that feel smooth and reliable for users.
 
 My portfolio - https://vimalkr.netlify.app/
 
