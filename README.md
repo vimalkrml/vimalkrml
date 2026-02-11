@@ -10,7 +10,6 @@ My Basic Sample Works :
 1. https://tailwind-made.netlify.app/
 2. https://braincert.netlify.app/
 3. https://testdashtile.netlify.app/
-4. https://ditchdollar.netlify.app/
 
 - 🔭 I work as a Product Engineer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
 - 🌱 Constantly learning and building with modern front-end and full-stack technologies.
