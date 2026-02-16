@@ -16,7 +16,6 @@ My Basic Sample Works :
 - 👯 Looking to collaborate on open-source projects, UI-heavy applications, and scalable dashboards.
 - 💬 Front-end development, Cypress E2E testing, performance optimization, and RESTful APIs.
   
-
 🛠️ Tech Stack
 - HTML, CSS, JavaScript (ES6+)
 - Vue.js, React.js
