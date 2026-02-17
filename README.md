@@ -5,7 +5,6 @@
 Currently, I’m working on a full-stack dashboard application with 10+ functional modules, where I build intuitive, responsive interfaces and collaborate closely with backend services. This experience has helped me understand how real-world products are structured end-to-end, improve performance, and deliver features that feel smooth and reliable for users.
 
 My portfolio - https://vimalkr.netlify.app/
-
 My Basic Sample Works :
 1. https://tailwind-made.netlify.app/
 2. https://braincert.netlify.app/
