@@ -1,23 +1,8 @@
-# 👋 Hi, I'm Vimal!
+Hi, I'm Vimal
+Building Products. Designing Systems. Thinking Long-Term.
 
-## 🚀 About Me
+I’m a product-focused engineer with a strong foundation in front-end development and growing expertise across the full stack. I enjoy turning ideas into reliable, scalable software while keeping user experience and product clarity at the center.
 
-Currently, I’m working on a full-stack dashboard application with 10+ functional modules, where I build intuitive, responsive interfaces and collaborate closely with backend services. This experience has helped me understand how real-world products are structured end-to-end, improve performance, and deliver features that feel smooth and reliable for users.
+Currently I work on a multi-module dashboard product, building responsive interfaces, integrating APIs, and improving performance across the application. This work has helped me understand how real products evolve — from interface design to backend integration and deployment.
 
-My portfolio - https://vimalkr.netlify.app/
-My Basic Sample Works :
-1. https://tailwind-made.netlify.app/
-2. https://braincert.netlify.app/
-3. https://testdashtile.netlify.app/
-
-- 🔭 I work as a Product Engineer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
-- 🌱 Constantly learning and building with modern front-end and full-stack technologies.
-- 👯 Looking to collaborate on open-source projects, UI-heavy applications, and scalable dashboards.
-- 💬 Front-end development, Cypress E2E testing, performance optimization, and RESTful APIs.
-🛠️ Tech Stack
-- HTML, CSS, JavaScript (ES6+)
-- Vue.js, React.js
-- Tailwind, Bootstrap
-- Node.js, Express
-- MySQL, AWS S3
-- Cypress
+My long-term vision is to architect products, lead engineering teams, and build technology companies.
