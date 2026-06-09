@@ -1,27 +1,19 @@
-# 👋 Hi, I'm Vimal!
+Hi, I’m Vimal — a product-focused engineer passionate about building scalable software, intelligent systems, and long-term technology products.
 
-## 🚀 About Me
+My background started in front-end engineering, where I developed strong experience creating responsive interfaces, improving application performance, and building user-centered products. Over time, my focus expanded beyond interfaces into full product architecture, backend integration, operational systems, and AI-assisted workflows.
 
-Currently, I’m working on a full-stack dashboard application with 10+ functional modules, where I build intuitive, responsive interfaces and collaborate closely with backend services. This experience has helped me understand how real-world products are structured end-to-end, improve performance, and deliver features that feel smooth and reliable for users.
-Proficient in building responsive, scalable web applications with HTML5, CSS3, Tailwind CSS, Bootstrap, and modern JavaScript (ES6+). Expertise in crafting intuitive UIs using Vue.js and React.js, with robust end-to-end testing via Cypress.
-Currently developing a full-stack dashboard application with 10+ modules, bridging frontend and backend. Skilled in RESTful APIs with Node.js/Express.js, AWS S3 for cloud storage, and MySQL for data management.
-Passionate about clean code, performance optimization, scalability, and user-centric design to deliver high-impact solutions.
+Currently, I work on a multi-module dashboard platform, contributing across UI development, API integrations, workflow systems, and product scalability. Working closely with evolving real-world products has given me hands-on exposure to how software grows from ideas into reliable operational platforms.
 
-My portfolio - https://vimalkr.netlify.app/
+Alongside this, I’m building **Datafluxgrid (DFG)** — a privacy-first operational intelligence platform designed to transform structured business data into live operational systems with minimal configuration. The vision behind DFG is to simplify how businesses interact with workflows, reporting, and operational intelligence by making systems adaptive, intelligent, and easier to use.
 
-My Basic Sample Works :
-1. https://tailwind-made.netlify.app/
-2. https://braincert.netlify.app/
-3. https://testdashtile.netlify.app/
+I’m especially interested in:
 
-- 🔭 I work as a Product Engineer (biased towards frontend) [@Success (Formerly "PuddingApp")](https://www.success.app/)
-- 🌱 Constantly learning and building with modern front-end and full-stack technologies.
-- 👯 Looking to collaborate on open-source projects, UI-heavy applications, and scalable dashboards.
-- 💬 Front-end development, Cypress E2E testing, performance optimization, and RESTful APIs.
-🛠️ Tech Stack
-- HTML, CSS, JavaScript (ES6+)
-- Vue.js, React.js
-- Tailwind, Bootstrap
-- Node.js, Express
-- MySQL, AWS S3
-- Cypress
+* Product architecture
+* Operational intelligence systems
+* Scalable SaaS platforms
+* AI-assisted workflows
+* System design
+* Data infrastructure
+* Long-term technology strategy
+
+My long-term vision is to architect impactful products, lead engineering teams, and build technology companies focused on solving operational complexity through intelligent software.
