@@ -5,7 +5,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vimalkrml&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/vimalkrml?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS&logo=github)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-%40vimalkrml-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimalkrml)
 
 </div>
 
