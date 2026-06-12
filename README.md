@@ -6,8 +6,8 @@
 <br/>
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=vimalkr141&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vimalkr141?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/vimalkr141?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=vimalkrml&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/vimalkrml?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/vimalkrml?tab=followers)
 
 </div>
 
@@ -83,15 +83,15 @@ MVP is on the horizon. When it's ready, you'll know.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalkr141&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalkrml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkr141&layout=compact&theme=tokyonight&border_radius=12&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkrml&layout=compact&theme=tokyonight&border_radius=12&hide_border=false"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vimalkr141&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vimalkrml&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,9 +102,9 @@ MVP is on the horizon. When it's ready, you'll know.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vimalkr141/vimalkr141/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vimalkr141/vimalkr141/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vimalkr141/vimalkr141/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vimalkrml/vimalkrml/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vimalkrml/vimalkrml/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vimalkrml/vimalkrml/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -130,7 +130,7 @@ The layout features a collapsible sidebar that adjusts to the user's role, a liv
 
 <div align="center">
 
-[![Vimal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimalkr141&theme=tokyo-night&border_radius=12&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vimal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimalkrml&theme=tokyo-night&border_radius=12&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
