@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vimal+K+R+%F0%9F%91%8B;Full-Stack+Engineer;DevOps+%26+Cloud+Architect;Founder+%40+Datafluxgrid)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views + Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=vimalkrml&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vimalkrml?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/vimalkrml?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/vimalkrml?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS&logo=github)
 
 </div>
 
@@ -15,13 +13,13 @@
 
 ## About Me
 
-I'm a **Full-Stack & DevOps Engineer** based in Chennai, India, freelancing at **Dhanam Infosys** while building something I've been quietly working on — **Datafluxgrid** — currently in the scoping phase and heading toward MVP soon.
+I'm a **Full-Stack & DevOps Engineer** based in Chennai, India — building client products across Singapore-based fintech, medical platforms, and media tech while founding my own venture on the side.
 
-I work across Singapore-based fintech, medical platforms, and media tech — shipping production-grade software from database schema to cloud infrastructure.
+I ship production-grade software end to end — from database schema and backend APIs to cloud infrastructure and polished frontends.
 
 ```text
 Location        Chennai, India
-Status          Open to Freelance Projects
+Status          Open to Freelance & Collaboration
 Focus           Full-Stack · DevOps · Product Engineering
 Venture         Datafluxgrid — Currently Scoping · MVP Coming Soon
 ```
@@ -42,9 +40,21 @@ making sure what we ship actually holds up in the real world.
 
 MVP is on the horizon. When it's ready, you'll know.
 
-**Curious?** Follow the journey on LinkedIn and be among the first to see what this becomes.
+**Curious?** Follow the journey and be among the first to see what this becomes.
 
-[![Follow Datafluxgrid](https://img.shields.io/badge/Follow%20Datafluxgrid-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/datafluxgrid/?viewAsMember=true)
+[![Follow Datafluxgrid](https://img.shields.io/badge/Follow%20Datafluxgrid-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/datafluxgrid)
+
+---
+
+## A Thought Worth Carrying
+
+<div align="center">
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+>
+> — Steve Jobs
+
+</div>
 
 ---
 
@@ -52,20 +62,22 @@ MVP is on the horizon. When it's ready, you'll know.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-### Backend & Database
+### Backend & Real-time
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -83,9 +95,9 @@ MVP is on the horizon. When it's ready, you'll know.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalkrml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalkrml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&rank_icon=github"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkrml&layout=compact&theme=tokyonight&border_radius=12&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkrml&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=6"/>
 
 </div>
 
@@ -141,7 +153,7 @@ The layout features a collapsible sidebar that adjusts to the user's role, a liv
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimal-k-r-193641217/)
-[![Datafluxgrid](https://img.shields.io/badge/Datafluxgrid-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/datafluxgrid/?viewAsMember=true)
+[![Datafluxgrid](https://img.shields.io/badge/Datafluxgrid-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/datafluxgrid)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vimalkr141)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krvimaloffl)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimalkr141@gmail.com)
