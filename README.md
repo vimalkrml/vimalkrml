@@ -95,7 +95,7 @@ MVP is on the horizon. When it's ready, you'll know.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalkrml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalkrml&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false&rank_icon=github"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkrml&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=6"/>
 
