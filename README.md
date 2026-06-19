@@ -25,6 +25,21 @@ Venture         Datafluxgrid — Currently Scoping · MVP Coming Soon
 ```
 
 ---
+## Published Packages
+
+### [@vimalkrml/dev-template](https://www.npmjs.com/package/@vimalkrml/dev-template)
+> A lightweight front-end starter template with CSS reset and a custom 12-column grid system.
+
+[![npm version](https://img.shields.io/npm/v/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
+[![npm downloads](https://img.shields.io/npm/dt/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
+
+```bash
+npm install @vimalkrml/dev-template
+```
+
+**Stack:** HTML · CSS · JavaScript
+
+---
 
 ## Something's Brewing
 
@@ -135,22 +150,6 @@ The layout features a collapsible sidebar that adjusts to the user's role, a liv
 **Modules include:** Enquiry Tracking · Application Management · Customer Records · Loan Closure · Collections · Reports · Staff Access Control · Notifications · Templates · Login Activity · Password Management · API Integrations · Live Staff Presence
 
 **Stack:** React · Node.js · Express · MySQL · AWS S3 · GitHub Actions
-
----
-
-## Published Packages
-
-### [@vimalkrml/dev-template](https://www.npmjs.com/package/@vimalkrml/dev-template)
-> A lightweight front-end starter template with CSS reset and a custom 12-column grid system.
-
-[![npm version](https://img.shields.io/npm/v/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
-[![npm downloads](https://img.shields.io/npm/dt/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
-
-```bash
-npm install @vimalkrml/dev-template
-```
-
-**Stack:** HTML · CSS · JavaScript
 
 ---
 
