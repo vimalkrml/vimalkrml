@@ -138,6 +138,22 @@ The layout features a collapsible sidebar that adjusts to the user's role, a liv
 
 ---
 
+## Published Packages
+
+### [@vimalkrml/dev-template](https://www.npmjs.com/package/@vimalkrml/dev-template)
+> A lightweight front-end starter template with CSS reset and a custom 12-column grid system.
+
+[![npm version](https://img.shields.io/npm/v/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
+[![npm downloads](https://img.shields.io/npm/dt/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
+
+```bash
+npm install @vimalkrml/dev-template
+```
+
+**Stack:** HTML · CSS · JavaScript
+
+---
+
 ## Activity Graph
 
 <div align="center">
