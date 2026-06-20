@@ -13,31 +13,33 @@
 
 ## About Me
 
-I'm a **Full-Stack & DevOps Engineer** based in Chennai, India — building client products across Singapore-based fintech, medical platforms, and media tech while founding my own venture on the side.
+I'm a **Full-Stack & DevOps Engineer** based in Chennai, India — building production-grade client products across Singapore-based fintech, medical platforms, and media tech while founding my own venture on the side.
 
-I ship production-grade software end to end — from database schema and backend APIs to cloud infrastructure and polished frontends.
+I work end to end — from database schema and backend APIs to cloud infrastructure and polished frontends — with a focus on systems that are maintainable, observable, and built to last.
 
 ```text
 Location        Chennai, India
 Status          Open to Freelance & Collaboration
 Focus           Full-Stack · DevOps · Product Engineering
-Venture         Datafluxgrid — Currently Scoping · MVP Coming Soon
+Venture         Datafluxgrid — Stealth · MVP in Progress
 ```
 
 ---
+
 ## Published Packages
 
-### [@vimalkrml/dev-template](https://www.npmjs.com/package/@vimalkrml/dev-template)
-> A lightweight front-end starter template with CSS reset and a custom 12-column grid system.
+### [@datafluxgrid/fluxgrid-css](https://www.npmjs.com/package/@datafluxgrid/fluxgrid-css)
+> A zero-build-step CSS framework with dark mode, theming, and a built-in animation library — designed for developers who want utility without a compiler.
 
-[![npm version](https://img.shields.io/npm/v/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
-[![npm downloads](https://img.shields.io/npm/dt/@vimalkrml/dev-template?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@vimalkrml/dev-template)
+[![npm version](https://img.shields.io/npm/v/@datafluxgrid/fluxgrid-css?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@datafluxgrid/fluxgrid-css)
+[![npm downloads](https://img.shields.io/npm/dt/@datafluxgrid/fluxgrid-css?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@datafluxgrid/fluxgrid-css)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6C63FF?style=for-the-badge)](https://github.com/vimalkrml/fluxgrid-css/blob/main/LICENSE)
 
 ```bash
-npm install @vimalkrml/dev-template
+npm install @datafluxgrid/fluxgrid-css
 ```
 
-**Stack:** HTML · CSS · JavaScript
+**Stack:** CSS · Design Tokens · Dark Mode · Animation
 
 ---
 
@@ -45,15 +47,15 @@ npm install @vimalkrml/dev-template
 
 > *Some problems are so obvious, it's strange no one has quietly solved them yet.*
 
-There's a product taking shape — quietly, carefully.
-No loud announcements. No buzzwords. Just a problem worth solving,
-and a system being built the right way.
+There's a product taking shape — built carefully, without shortcuts.
 
-It's called **Datafluxgrid**.
-We're in the scoping phase right now — mapping the edges, stress-testing the idea,
-making sure what we ship actually holds up in the real world.
+No loud announcements. No pitch decks dressed as progress updates.
+Just a real problem, a clear-headed system, and the patience to build it right.
 
-MVP is on the horizon. When it's ready, you'll know.
+It's called **Datafluxgrid** — a privacy-first operational intelligence platform.
+Currently in stealth. Scoping done. MVP in motion.
+
+When it ships, it will speak for itself.
 
 **Curious?** Follow the journey and be among the first to see what this becomes.
 
@@ -140,14 +142,14 @@ MVP is on the horizon. When it's ready, you'll know.
 
 ## Featured Projects
 
-### PayLater — Fintech Admin Platform
-> Internal operations dashboard for a Singapore-based loan management company.
+### PayLater — Fintech Operations Platform
+> Role-based internal dashboard for a Singapore-based loan management company.
 
-A role-based admin panel where different staff levels — admins, supervisors, reviewers, and developers — each see only the tools they're allowed to use. The dashboard brings together everything the team needs in one place: tracking loan enquiries from submission to closure, managing customer records, reviewing applications, monitoring which staff are currently online, and keeping an eye on activity across the platform.
+A full-featured admin panel where staff at every level — admins, supervisors, reviewers, and developers — operate within clearly defined access boundaries. The platform centralises everything the team needs: tracking enquiries from first contact to closure, managing customer records, reviewing applications, monitoring live staff presence, and maintaining visibility across all platform activity.
 
-The layout features a collapsible sidebar that adjusts to the user's role, a live header showing real-time Singapore time alongside trend graphs and task indicators, and a clean module-switching system so teams can move between sections without page reloads. Built to handle day-to-day loan operations without needing to switch between multiple tools.
+The interface features a collapsible role-aware sidebar, a real-time Singapore time header with live trend graphs and task indicators, and seamless module switching without page reloads. Built to replace a fragmented multi-tool workflow with a single, purpose-built operations hub.
 
-**Modules include:** Enquiry Tracking · Application Management · Customer Records · Loan Closure · Collections · Reports · Staff Access Control · Notifications · Templates · Login Activity · Password Management · API Integrations · Live Staff Presence
+**Modules:** Enquiry Tracking · Application Management · Customer Records · Loan Closure · Collections · Reports · Staff Access Control · Notifications · Templates · Login Activity · Password Management · API Integrations · Live Staff Presence
 
 **Stack:** React · Node.js · Express · MySQL · AWS S3 · GitHub Actions
 
