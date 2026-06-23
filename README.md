@@ -24,8 +24,6 @@ Focus           Full-Stack · DevOps · Product Engineering
 Venture         Datafluxgrid — Stealth · MVP in Progress
 ```
 
----
-
 ## Published Packages
 
 ### [@datafluxgrid/fluxgrid-css](https://www.npmjs.com/package/@datafluxgrid/fluxgrid-css)
@@ -40,6 +38,21 @@ npm install @datafluxgrid/fluxgrid-css
 ```
 
 **Stack:** CSS · Design Tokens · Dark Mode · Animation
+
+---
+
+### [@datafluxgrid/fluxgrid-data](https://www.npmjs.com/package/@datafluxgrid/fluxgrid-data)
+> Composable frontend data pipelines — search, sort, filter, paginate, and group arrays with one reusable query definition. Zero dependencies. Works with JavaScript, TypeScript, React, Vue, Svelte, and Angular.
+
+[![npm version](https://img.shields.io/npm/v/@datafluxgrid/fluxgrid-data?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@datafluxgrid/fluxgrid-data)
+[![npm downloads](https://img.shields.io/npm/dt/@datafluxgrid/fluxgrid-data?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@datafluxgrid/fluxgrid-data)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6C63FF?style=for-the-badge)](https://github.com/vimalkrml/fluxgrid-data/blob/main/LICENSE)
+
+```bash
+npm install @datafluxgrid/fluxgrid-data
+```
+
+**Stack:** JavaScript · TypeScript · React · Vue · Svelte · Zero Dependencies
 
 ---
 
