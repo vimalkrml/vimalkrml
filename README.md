@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a **Full-Stack & DevOps Engineer** based in Chennai, India — building production-grade client products across Singapore-based fintech, medical platforms, and media tech while founding my own venture on the side.
+I'm a **Full-Stack & DevOps Engineer** based in Coimbatore, India — building production-grade client products across Singapore-based fintech, medical platforms, and media tech while founding my own venture on the side.
 
 I work end to end — from database schema and backend APIs to cloud infrastructure and polished frontends — with a focus on systems that are maintainable, observable, and built to last.
 
