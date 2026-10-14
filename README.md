@@ -4,7 +4,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vimalkrml&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 [![Follow on GitHub](https://img.shields.io/badge/Follow-%40vimalkrml-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimalkrml)
 
 </div>
