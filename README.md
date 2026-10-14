@@ -17,7 +17,7 @@ I'm a **Full-Stack & DevOps Engineer** based in Coimbatore, India — building p
 I work end to end — from database schema and backend APIs to cloud infrastructure and polished frontends — with a focus on systems that are maintainable, observable, and built to last.
 
 ```text
-Location        Chennai, India
+Location        Coimbatore, India
 Status          Open to Freelance & Collaboration
 Focus           Full-Stack · DevOps · Product Engineering
 Venture         Datafluxgrid — Stealth · MVP in Progress
