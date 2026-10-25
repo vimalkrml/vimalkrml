@@ -45,7 +45,7 @@ A privacy-first operational intelligence platform. Currently in stealth, with sc
 | **Languages** | JavaScript · SQL · Bash |
 | **Frontend** | React · Next.js · Vue · Tailwind CSS · Bootstrap · Framer Motion · GSAP |
 | **Backend** | Node.js · Express · WebSocket · MySQL · PostgreSQL · Supabase |
-| **DevOps & Cloud** | AWS · Docker · GitHub Actions · Vercel · Render |
+| **DevOps & Cloud** | AWS · GitHub Actions · Vercel · Render |
 
 ---
 
